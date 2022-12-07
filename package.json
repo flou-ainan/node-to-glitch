@@ -1,0 +1,14 @@
+{
+  "name": "seccond-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"HU3\" && exit 1"
+  },
+  "author": "Flou-Ainan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
